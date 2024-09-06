@@ -1,7 +1,7 @@
 # Minecraft NoHunger plugin
 
-Usable for Lobby servers. <br>
-Not for general use.
+Usable for **Lobby servers**. <br>
+_Not for general use._
 
 
 ## INFO
