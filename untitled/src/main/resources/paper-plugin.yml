@@ -1,0 +1,8 @@
+name: NoHunger
+version: '1.0'
+main: com.Karmakido.noHunger.NoHunger
+api-version: '1.21'
+commands:
+  nohunger:
+    description: NoHunger Plugin
+    usage: /<command> info
