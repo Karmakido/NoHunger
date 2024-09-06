@@ -9,7 +9,7 @@ public class nohungercommand implements CommandExecutor {
     public boolean onCommand(CommandSender sender, Command command, String s, String[] args) {
         if (command.getName().equalsIgnoreCase("nohunger")) {
             if (args.length > 0 && args[0].equalsIgnoreCase("info")) {
-                sender.sendMessage("§a Made with <3 by Karmakido for Marjo and Sleepy");
+                sender.sendMessage("§a Made with <3 by Karmakido");
                 sender.sendMessage("§b Plugin-Version: 1.0");
                 sender.sendMessage("§b commands: /nohunger info");
                 return true;
