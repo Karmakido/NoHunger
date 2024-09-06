@@ -15,7 +15,7 @@ public final class NoHunger extends JavaPlugin {
         // Plugin startup logic
         this.getCommand("nohunger").setExecutor(new nohungercommand());
         getLogger().info("NoHunger plugin enabled!");
-        getLogger().info("--Made by Karmakido with <3 for Sleepy and Marjo--");
+        getLogger().info("--Made by Karmakido with <3--");
 
         new BukkitRunnable() {
             @Override
